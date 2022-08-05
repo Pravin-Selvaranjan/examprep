@@ -91,7 +91,7 @@ print (max_num(3, 4, 5))
 
 num1 = float(input("Enter a number: "))
 operator = input("Enter operator: ")
-num3 = float(input("Enter a second number: "))
+num2 = float(input("Enter a second number: "))
 
 if operator == "+":
     print(num1 + num2)
